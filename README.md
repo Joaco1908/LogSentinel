@@ -24,12 +24,15 @@
 ```
 LogSentinel/
 ├── src/                # Source code
-│   └── main.py         # Main script
-├── logs/               # Input log files
-├── reports/            # Generated reports
-├── requirements.txt    # Project dependencies
-├── .gitignore          # Files ignored by Git
-└── README.md           # Project documentation
+│   ├── main.py         # Main script (donde irás desarrollando el análisis)
+│   └── utils.py        # Funciones auxiliares (como regex, reportes, etc.)
+├── logs/               # Carpeta donde pondrás los archivos de logs a analizar
+│   └── sample_auth.log # Log de ejemplo para pruebas
+├── reports/            # Salida de reportes generados
+├── requirements.txt    # Dependencias del proyecto
+├── .gitignore          # Qué archivos debe ignorar Git
+└── README.md           # Documentación del proyecto
+
 ```
 
 ---
