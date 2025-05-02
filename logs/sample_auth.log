@@ -1,0 +1,4 @@
+May  2 14:31:23 server sshd[1245]: Failed password for invalid user admin from 185.213.12.45 port 45876 ssh2
+May  2 14:31:25 server sshd[1245]: Failed password for invalid user admin from 185.213.12.45 port 45876 ssh2
+May  2 14:32:00 server sshd[1245]: Accepted password for john from 192.168.1.10 port 54321 ssh2
+May  2 14:33:17 server sshd[1245]: Failed password for root from 222.222.222.222 port 33245 ssh2
