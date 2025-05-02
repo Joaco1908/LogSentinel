@@ -48,7 +48,7 @@ LogSentinel/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/LogSentinel.git
+git clone https://github.com/Joaco1908/LogSentinel.git
 cd LogSentinel
 
 # (Optional) Set up a virtual environment
